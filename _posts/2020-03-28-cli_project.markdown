@@ -11,7 +11,7 @@ Originally I wanted to build this project on an API because scrapping is simply 
 My Cli application is based on a site which keeps track of the world population, based on different categories. 
 The first thing I did was making the interface, how will the user interface be. I wrote down all the options and sub-options a user will be able to choose from.
 
-This application has five main options, where each option results in more options and the displaying data. A user can choose to get information on the top 20 counties with the most population. A user can also find future and past trends of the world population. some other options to choose from are by region, sub-region and by religion.
+This application has five main options, where each option results in more options and then displaying data. A user can choose to get information on the top 20 counties with the most population. A user can also find future and past trends of the world population. some other options to choose from are by region, sub-region and by religion.
 
 All the data that will be displayed to the user is scraped from the website and is initialized in a class to keep track of it. After data has been displayed to the user, the classes are cleared for the past data, because we don't want to keep that data.
 
