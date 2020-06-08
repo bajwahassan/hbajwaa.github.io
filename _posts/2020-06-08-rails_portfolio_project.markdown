@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project"
-date:       2020-06-08 18:54:50 +0000
+date:       2020-06-08 14:54:51 -0400
 permalink:  rails_portfolio_project
 ---
 
@@ -24,7 +24,7 @@ Login Form:
 After User is logged in, they will be able to create multiple lists:
 ![imgur](https://i.imgur.com/yLHyl91.png)
 
-Now a list has been created, user can hop in that list and create movies for that list:
+Now a list has been created, user can hop in to that list and create movies for that list:
 ![imgur](https://i.imgur.com/KgwrW1F.png)
 
 User can also edit or delete a movie:
@@ -36,5 +36,5 @@ A sort button has also been created, if a user would like to see the movies by r
 I used a scope method for sorting movies:
 ![imgur](https://i.imgur.com/hcSm3NZ.png)
 
-For user interface a little bootstrap was used, will be updating the user interface as I learn more frontend designing. Also more features will be added soon, one of them will be sort and search by genre.
+For user interface a little bootstrap was used, will be updating the user interface and making site more user friendly. Also more features will be added soon, one of them will be sort and search by genre.
 
