@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Rails and JavaScript Project"
-date:       2020-07-06 22:56:15 +0000
+date:       2020-07-06 18:56:16 -0400
 permalink:  rails_and_javascript_project
 ---
 
 
-This is a simple To-Do list application. This app uses Rails as backend, and  JavaScript and CSS for frontend. Application
+This is a simple To-Do list application. This app uses Rails as backend, and JavaScript and CSS for frontend. Application
 
 is fairly simple to use.
 
