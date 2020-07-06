@@ -7,7 +7,6 @@ permalink:  rails_and_javascript_project
 
 
 This is a simple To-Do list application. This app uses Rails as backend, and JavaScript and CSS for frontend. Application
-
 is fairly simple to use.
 
 This project was undoubtedly my favorite in terms of  developing a JS and Rails Project. I really enjoyed learning how 
