@@ -11,7 +11,7 @@ This is a simple To-Do list application. This app uses Rails as backend, and Jav
 This project was undoubtedly my favorite in terms of  developing a JS and Rails Project. I really enjoyed learning how 
 JavaScript manages frontend. 
 
-To be honest my rails project was more complicated than this, since this is just a single page applications. I learned a lot through this project some of the concepts are DOM Manipulation , EventDelegations, variable scope, Hoisting, JSON etc. There are so much to learn about it, but now it makes sense how a modern website works.
+To be honest my rails project was more complicated than this, since this is just a single page applications. I learned a lot through this project some of the concepts are DOM Manipulation , EventDelegations, variable scope, Hoisting, JSON etc. There is so much to learn about it, but now it makes sense how a modern website works.
 
 I kept, this project fairly simple, and I think anyone who understands JS syntax will be able to understand this frontend portion of my project.
 
