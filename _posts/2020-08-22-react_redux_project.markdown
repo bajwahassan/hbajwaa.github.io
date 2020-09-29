@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Redux Project"
-date:       2020-08-22 05:13:43 +0000
+date:       2020-08-22 01:13:44 -0400
 permalink:  react_redux_project
 ---
 
@@ -34,7 +34,8 @@ Adding new pets:
 Contact Page:
 ![imgur](https://i.imgur.com/9O7qo4J.png)
 
-I will be adding the new and missing features soon, and in time the site will go live.
+Search bar to filter pets:
+![imgur](https://i.imgur.com/m9efgl7.png)
 
 
 
