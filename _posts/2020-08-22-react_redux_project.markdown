@@ -34,7 +34,7 @@ Adding new pets:
 Contact Page:
 ![imgur](https://i.imgur.com/9O7qo4J.png)
 
-Search bar to filter pets:
+Like button and Search bar to filter pets(new):
 ![imgur](https://i.imgur.com/m9efgl7.png)
 
 
